@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: Purple
+Favorite food: Steak
+Favorite musician/band: Radiohead
+Favorite movie: Spiderman: Into the Spiderverse
+Requested grade in the course: 0x64
